@@ -41,8 +41,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Column{
-                        Greeting("INF2007")
-                        From("Micheal")
+                        Greeting("INF2007 changes")
+                        From("Micheal Musk")
                     }
                 }
             }
